@@ -11,8 +11,8 @@ Welcome to the official GitHub organization of the **AI-Fashion Lab**, based at 
 ## 🧑‍🎓 Members
 | Name             | Role          | GitHub Handle      |
 |------------------|---------------|--------------------|
-| Dr. Wei-Her Hsieh | Lab Supervisor | @username         |
-| Enock             | Research Intern | @Enock02333       |
+| Dr. Wei-Her Hsieh | Lab Supervisor | @weiher66         |
+| Enock Isack       | Research Intern | @Enock02333       |
 
 ## 📂 Projects
 | Project Name                         | Description                                      | Link |
@@ -24,6 +24,6 @@ Welcome to the official GitHub organization of the **AI-Fashion Lab**, based at 
 - 🧑‍🎓 [Internship Summer 2025](https://github.com/ai-fashion-lab-npust/internship-2025-summer)
 
 ## 🌐 Website
-Coming soon via GitHub Pages.
+[AI Fashion Lab Website](https://ai4fashion.npust.edu.tw/team/).
 
 ---
