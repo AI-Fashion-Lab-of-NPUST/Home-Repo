@@ -102,5 +102,5 @@ All repositories are open-sourced under the **MIT License**, unless otherwise sp
 ## 🌐 Website
 
 AI Fashion Lab:
-👉 [Website](https://ai4fashion.npust.edu.tw/))
+👉 [Website](https://ai4fashion.npust.edu.tw/)
 
